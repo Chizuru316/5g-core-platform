@@ -1,0 +1,13 @@
+.env
+logs/*
+!logs/.gitkeep
+captures/*
+!captures/.gitkeep
+*.pcap
+*.pcapng
+*.key
+*.pem
+cert/*.crt
+__pycache__/
+*.pyc
+.venv/

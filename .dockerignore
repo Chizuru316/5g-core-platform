@@ -1,0 +1,6 @@
+.git
+logs
+captures
+docs
+*.pcap
+*.pcapng

@@ -1,0 +1,6 @@
+# Isolated subnets for SBI, N2, N3, N4 (SBI default: 10.100.200.0/24)
+networks:
+  sbi:
+    ipam:
+      config:
+        - subnet: 10.100.200.0/24
